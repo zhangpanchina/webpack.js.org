@@ -84,7 +84,7 @@ __package.json__
     "version": "1.0.0",
     "description": "",
 +   "private": true,
--   "main": "index.js",
+    "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
